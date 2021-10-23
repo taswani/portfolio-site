@@ -21,7 +21,22 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Data Scientist at Bridge Investment Group <span>August 2020 - Present</span></h2>
+                        <h2>Software Engineer at Syapse <span>August 2021 - Present</span></h2>
+                        <ul>
+                          <li>Adding custom features to help reduce errors in production by 25%</li>
+                          <li>Built custom APIs in Django to help deliver FHIR data</li>
+                          <li>Redesign of backend architecture to help accelerate data ingestion processes</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Data Scientist at Bridge Investment Group <span>August 2020 - August 2021</span></h2>
                         <ul>
                           <li>Built prediction model of which Financial advisors have brought in most investors/money to firm using Logistic Regression, Python, Pandas, Scikit-learn to analyze data, saving Client Solutions group ~25-30 hours in manual work and ~$100,000 in prioritization of marketing.</li>
                           <li>Web scraping of Wealth Management websites to accrue a database of contact information for Financial Advisors utilizing Python, Selenium, SQL to access and store the data from websites, saving Client Solutions group ~12-16 hours in manual work.</li>
@@ -37,31 +52,12 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Marketing Data Analyst at Enact Leadership <span>January 2019 - December 2019</span></h2>
+                        <h2>Software Engineer at Enact Leadership <span>January 2019 - December 2019</span></h2>
                         <ul>
                           <li>Delivered accurate estimates for user engagement in online learning activities, resulting in client renewals using Python, SQL to access and analyze data, increasing profitability of the program by ~$35,000.</li>
                           <li>Automated mass email delivery for Digital Learning Program using Node.js increasing user engagement by ~35%.</li>
                           <li>Managed company website, through updates and addition of features utilizing PHP, Python, JavaScript, CSS saving company ~$2700 by having website managed in house.</li>
                         </ul>
-                      </div>
-                    </div>
-                  </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-5">
-                        <i className="icon-pen2" />
-                      </div>
-                      <div className="timeline-label">
-                        <h2>Human Resources Analyst <span>May 2017 - January 2018</span></h2>
-                        <ul>
-                          <li>Tasked with collecting and analyzing data on the recruiting and hiring process, using Python scripting, SQL queries accessing data, ultimately lowering turnover by 15% within a span of a few months.</li>
-                        </ul> 
-                      </div>
-                    </div>
-                  </article>
-                  <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-none">
                       </div>
                     </div>
                   </article>

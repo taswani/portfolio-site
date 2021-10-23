@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who am I?</h2>
-                    <p>Hi there! I am a software engineer and I love solving challenging puzzles. I am excited to bring my background in data science to create efficient engineering solutions. I fell in love with solving puzzles during my masters program, from where I chose to start learning how to code in Python and JavaScript. My natural desire to learn more and more ultimately led me to my current position, where I have been recently working on providing engineering solutions for Bridge Investment Group.</p>
+                    <p>Hi there! I am a software engineer and I love solving challenging puzzles. I am excited to bring my background, with experience in different industries, to create efficient engineering solutions. I fell in love with solving puzzles during my masters program, from where I chose to start learning how to code in Python and JavaScript. My natural desire to learn more and more ultimately led me to my current position, where I have been recently working on providing engineering solutions for Syapse.</p>
                     </div>
                 </div>
                 </div>
@@ -47,8 +47,8 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Data Science</h3>
-                    <p>As coming from the Data Science background, I have a lot experience using code to provide business impact</p>
+                    <h3>Working with Data</h3>
+                    <p>Coming from a varied background, I have a lot experience using code to provide business impact through data insights.</p>
                 </div>
                 </div>
             </div>
